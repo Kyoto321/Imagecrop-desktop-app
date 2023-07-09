@@ -1,0 +1,16 @@
+{
+  "name": "image_resizer",
+  "version": "1.0.0",
+  "description": "App for resizing images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ayo Bankole",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^25.2.0",
+    "resize-img": "^1.1.2",
+    "toastify-js": "^1.12.0"
+  }
+}
